@@ -9,6 +9,34 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>TestXcodeServerTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>TestXcodeServerUITests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>F63C6F381F73519D006CF3F4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F63C6F4C1F73519E006CF3F4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F63C6F571F73519E006CF3F4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
